@@ -3,6 +3,7 @@ The following files were used to aquire data from various websites in order to b
 * top10VORPold.py
 * totalplayoffgames.py
 * basketballreferencescrapertocsv.py
+
 Additionally, the following files were created during the process, but weren't used in the eventual model:
 * top10VORPnew.py
 * topten2kratingscraper.py
