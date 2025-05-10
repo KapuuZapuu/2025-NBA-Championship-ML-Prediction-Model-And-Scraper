@@ -1,12 +1,12 @@
 # 2025 NBA Championship Prediction Model & Scraper
 The following files were used to aquire data from various websites in order to build a machine learning prediction model for the 2025 NBA Championship:
-* top10VORPold.py
-* totalplayoffgames.py
-* basketballreferencescrapertocsv.py
+* top10VORPold.py: Gets the top 9 VORP ratings on every team's roster per user specified input season.
+* totalplayoffgames.py: Gets the total number of playoff games played for every team's roster per user specified input season.
+* basketballreferencescrapertocsv.py: Gets every major advanced stat for each team as a whol per user specified input season.
 
 Additionally, the following files were created during the process, but weren't used in the eventual model:
-* top10VORPnew.py
-* topten2kratingscraper.py
+* top10VORPnew.py: Like "top10VORPold.py", but does not work.
+* topten2kratingscraper.py: Gets the top 10 2K ratings on every team's roster per user specified input season.
 
 Make sure you setup a virtual environment and install any dependencies or libraries to get these scripts to work.
 
